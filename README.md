@@ -61,6 +61,6 @@ När ett fokuspass är aktivt följer tillägget en trestegsprocess för varje s
 
 ### Klona projektet
 ```bash
-git clone https://länk/till/ditt/repo.git
+git clone https://github.com/Jepsterrr/focus-extension
 cd ditt-repo-namn
 ```
